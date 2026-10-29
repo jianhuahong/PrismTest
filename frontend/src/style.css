@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background: #f5f7fa;
+  color: #303133;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+#app {
+  min-height: 100vh;
+}
+
+.page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+.card-gap {
+  margin-top: 16px;
+}
